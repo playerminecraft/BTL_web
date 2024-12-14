@@ -1,0 +1,17 @@
+.banner {
+  position: relative;
+  background: url("../../images/banner/banner.jpeg") no-repeat center center/cover;
+  height: 720px;
+  color: white;
+  text-align: center;
+}
+
+.banner .slogan {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}

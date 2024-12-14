@@ -1,0 +1,59 @@
+.feedback-card {
+  padding: 34px;
+  border: 1px solid#091E4233 !important;
+  border-radius: 4px;
+  box-shadow: 0 0 1px 0 #091e424d;
+  box-shadow: 0 3px 5px 0 #091e4233;
+  background-color: #fff;
+}
+.feedback-card .card-header {
+  margin-bottom: 16px;
+}
+.feedback-card .card-title {
+  color: var(--slate-gray-color);
+  font-size: 24px;
+  line-height: 28.8px;
+  text-align: left;
+}
+.feedback-card textarea.form-control {
+  height: 120px;
+}
+.personal-information {
+  margin-top: 16px;
+  display: flex;
+  column-gap: 56px;
+  margin-bottom: 36px;
+}
+.personal-contact {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  flex: 1;
+  column-gap: 24px;
+}
+.personal-contact .form-control {
+  border: 1px solid #d9d9d9 !important;
+  font-size: 18px;
+  color: var(--slate-gray-color);
+  line-height: 21.6px;
+  text-align: left;
+}
+.feedback-card .card-footer {
+  display: flex;
+  justify-content: end;
+  margin-top: 20px;
+}
+.feedback__btn {
+  width: 175px;
+  height: 56px;
+  color: var(--white-text-color);
+  font-size: 24px;
+  line-height: 28.8px;
+  text-align: left;
+  background-color: var(--goldenrod-color);
+  border-radius: 28px;
+  display: grid;
+  place-items: center;
+}
+.feetback-wrapper {
+  padding: 60px 0;
+}

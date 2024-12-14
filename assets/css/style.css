@@ -1,0 +1,13 @@
+@import "./SetupBase/base.css";
+@import "./SetupBase/variables.css";
+@import "./SetupBase/reset.css";
+@import "./Layouts/header.css";
+@import "./Layouts/footer.css";
+@import "./Components/banner.css";
+@import "./Components/about.css";
+@import "./Components/feature.css";
+@import "./Components/media.css";
+@import "./Components/location.css";
+@import "./Components/cuisine.css";
+@import "./Components/contact.css";
+@import "./Components/feetback.css";

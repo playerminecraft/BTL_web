@@ -1,0 +1,18 @@
+.header {
+  position: fixed;
+  height: 100px;
+  width: 100%;
+  z-index: 1;
+}
+.header .navbar {
+  background-color: white;
+}
+.header .nav-link {
+  color: #3d3d3d;
+  font-size: 20px;
+  line-height: 28px;
+}
+.navbar-brand img {
+  width: 100%;
+  height: 90px;
+}

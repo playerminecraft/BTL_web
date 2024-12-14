@@ -1,0 +1,20 @@
+.contact-category {
+  font-size: 18px;
+  line-height: 28px;
+}
+.contact-way {
+  margin-top: 10px;
+}
+
+.contact-way li {
+  margin-bottom: 10px;
+}
+.contact-way__title {
+  margin-bottom: 10px;
+}
+.fa-brands {
+  color: white;
+}
+.footer-wrapper {
+  padding: 35px 0;
+}

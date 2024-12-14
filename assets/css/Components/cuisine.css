@@ -1,0 +1,26 @@
+.cuisine-detail__img img {
+  aspect-ratio: 13/8;
+}
+.cuisine-header {
+  font-size: 35px;
+  font-weight: bold;
+  color: #be1614;
+  line-height: 50px;
+  margin-bottom: 10px;
+}
+.cuisine-detail__title {
+  font-size: 22px;
+  line-height: 35px;
+  margin-bottom: 20px;
+  text-align: center;
+  margin-top: 20px;
+}
+.cuisine-detail__text {
+  font-size: 18px;
+  line-height: 28px;
+  color: #808080;
+}
+
+.cuisine-detail__img {
+  margin-bottom: 30px;
+}
