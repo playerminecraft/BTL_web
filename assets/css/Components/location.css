@@ -1,3 +1,6 @@
+section#locations {
+  background: #fffff0;
+}
 .location-header__title {
   font-size: 35px;
   font-weight: bold;
