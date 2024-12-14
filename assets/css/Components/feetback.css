@@ -41,6 +41,8 @@
   display: flex;
   justify-content: end;
   margin-top: 20px;
+  justify-content: space-between;
+  align-items: center;
 }
 .feedback__btn {
   width: 175px;

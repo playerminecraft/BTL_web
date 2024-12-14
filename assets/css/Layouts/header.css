@@ -17,3 +17,17 @@
   width: 100%;
   height: 90px;
 }
+.header-search {
+  border: #3d3d3d;
+}
+
+.header-search {
+  border: #3d3d3d;
+  background: aliceblue;
+  height: 45px;
+  width: 300px;
+}
+
+.header-search-btn {
+  background: #be1614;
+}
