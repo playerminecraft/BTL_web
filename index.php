@@ -361,40 +361,140 @@
                             <h3 class="text-center">Ẩm thực và Không gian lễ hội</h3>
                         </div>
                         <div class="cuisine-detail">
-                            <div class="row mt-3">
-                                <div class="col-md-6">
-                                    <h4 class="cuisine-detail__title">Ẩm thực đặc sản</h4>
-                                    <div class="cuisine-detail__img">
-                                        <img src="./assets/images/cuisine/cuisine.jpg" alt=""
-                                            class="img-fluid rounded shadow" />
+                            <div class="swiper mySwiper">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <div class="d-flex gap-4">
+                                            <div class="cuisine-img">
+                                                <img src="./assets/images/cuisine/cuisine.jpg" alt="" />
+                                            </div>
+                                            <div class="cuisine-content">
+                                                <div class="cuisine-content__header">Ẩm thực đặc sản</div>
+                                                <div class="cuisine-content__content">Trong lễ hội, các món ăn đặc sản
+                                                    của Hải Phòng được bày bán tại các khu vực gian hàng. Du khách sẽ
+                                                    được thưởng thức những món ăn đặc trưng như bún cá, nem cua bể, bánh
+                                                    đa cua... Những món ăn này không chỉ ngon mà còn mang đậm hương vị
+                                                    của miền đất cảng.</div>
+                                            </div>
+                                        </div>
                                     </div>
-                                    <p class="cuisine-detail__text">Trong lễ hội, các món ăn đặc sản của Hải Phòng được
-                                        bày bán tại các khu vực gian hàng. Du khách sẽ được thưởng thức những món ăn đặc
-                                        trưng như bún cá, nem cua bể, bánh đa cua... Những món ăn này không chỉ ngon mà
-                                        còn mang đậm hương vị của miền đất cảng.</p>
-                                </div>
-                                <div class="col-md-6">
-                                    <h4 class="cuisine-detail__title">Không gian lễ hội</h4>
-                                    <div class="cuisine-detail__img">
-                                        <img src="./assets/images/cuisine/festival.jpg" alt=""
-                                            class="img-fluid rounded shadow" />
+                                    <div class="swiper-slide">
+                                        <div class="d-flex gap-4">
+                                            <div class="cuisine-img">
+                                                <img src="./assets/images/cuisine/cuisine-fish-noodile.jpg" alt="" />
+                                            </div>
+                                            <div class="cuisine-content">
+                                                <div class="cuisine-content__header">Bún cá</div>
+                                                <div class="cuisine-content__content">
+                                                    Bún cá Hải Phòng là một món ăn đặc sản nổi tiếng của thành phố cảng
+                                                    Hải Phòng, mang hương vị đặc trưng khó quên. Món bún này nổi bật với
+                                                    nước dùng trong, ngọt thanh, được nấu từ xương cá và các loại rau
+                                                    củ. Điểm nhấn đặc biệt của bún cá Hải Phòng chính là cá rán giòn,
+                                                    thường là cá rô hoặc cá quả, được tẩm ướp gia vị vừa vặn, sau đó
+                                                    chiên vàng thơm phức. <br />Bún được ăn kèm với rau sống tươi mát,
+                                                    gồm rau xà lách, rau thơm, giá đỗ và hành lá thái nhỏ. Một số nơi
+                                                    còn
+                                                    thêm dọc mùng hoặc hoa chuối thái mỏng để tăng hương vị. Khi thưởng
+                                                    thức, thực khách thường thêm một chút chanh, ớt tươi và dấm tỏi để
+                                                    làm dậy lên vị chua cay, hấp dẫn đặc trưng. <br />Bún cá Hải Phòng
+                                                    không chỉ là một món ăn ngon miệng mà còn mang đậm hương vị quê
+                                                    hương, khiến ai xa xứ cũng phải nhớ nhung. Món ăn này thường được
+                                                    thưởng thức vào buổi sáng hoặc trưa, mang đến cảm giác thanh mát và
+                                                    trọn vẹn cho một ngày dài.
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                    <p class="cuisine-detail__text">Các địa điểm tổ chức lễ hội được trang trí lộng lẫy,
-                                        với những biểu tượng hoa phượng đỏ khắp nơi, tạo nên không gian rực rỡ sắc màu.
-                                        Không khí lễ hội sôi động với các chương trình biểu diễn, triển lãm, và các hoạt
-                                        động giao lưu cộng đồng. Mọi người đều cảm nhận được sự vui tươi và thân thiện
-                                        của người dân Hải Phòng.</p>
+                                    <div class="swiper-slide">
+                                        <div class="d-flex gap-4">
+                                            <div class="cuisine-img">
+                                                <img src="./assets/images/cuisine/bun-oc-ha-noi.webp" alt="" />
+                                            </div>
+                                            <div class="cuisine-content">
+                                                <div class="cuisine-content__header">Bún ốc</div>
+                                                <div class="cuisine-content__content">
+                                                    Bún ốc Hải Phòng là một món ăn dân dã nhưng đậm đà hương vị của vùng
+                                                    đất cảng, mang nét đặc trưng riêng so với các vùng miền khác. Món ăn
+                                                    này gây ấn tượng bởi sự hòa quyện tinh tế giữa nước dùng chua thanh,
+                                                    thịt ốc dai giòn và các nguyên liệu tươi ngon đi kèm. <br />Nước
+                                                    dùng của bún ốc Hải Phòng được chế biến từ xương hầm, thêm giấm bỗng
+                                                    hoặc me để tạo độ chua nhẹ, cùng cà chua và hành phi thơm lừng. Điểm
+                                                    nhấn chính là những con ốc béo ngậy, được làm sạch kỹ lưỡng,
+                                                    luộc chín vừa tới để giữ nguyên độ tươi ngon, giòn ngọt. <br />Bún
+                                                    ốc Hải Phòng thường được ăn kèm với rau sống như rau muống chẻ, hoa
+                                                    chuối thái mỏng, rau thơm và giá đỗ, tạo sự cân bằng giữa hương vị
+                                                    và màu sắc. Khi thưởng thức, thực khách có thể thêm một chút mắm
+                                                    tôm, chanh, ớt hoặc sa tế để làm dậy vị cay nồng, đặc trưng của ẩm
+                                                    thực Hải Phòng.
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="d-flex gap-4">
+                                            <div class="cuisine-img">
+                                                <img src="./assets/images/cuisine/banh-duc-tau-hai-phong.webp" alt="" />
+                                            </div>
+                                            <div class="cuisine-content">
+                                                <div class="cuisine-content__header">Bánh đúc hải phòng</div>
+                                                <div class="cuisine-content__content">
+                                                    Bánh đúc Hải Phòng là một món ăn dân dã nhưng lại rất độc đáo và
+                                                    được lòng thực khách bởi hương vị thơm ngon, đậm đà bản sắc ẩm thực
+                                                    vùng đất cảng. Khác với bánh đúc ở nhiều nơi, bánh đúc Hải Phòng
+                                                    thường được chế biến với hai loại chính: bánh đúc mặn và bánh đúc
+                                                    ngọt, mỗi loại mang một nét đặc trưng riêng biệt. <br />Bánh đúc mặn
+                                                    Hải Phòng nổi bật với phần bánh mềm mịn, trắng tinh, được làm từ bột
+                                                    gạo và bột năng, dẻo nhưng không dính. Món ăn này được phủ lên trên
+                                                    một lớp nhân đậm đà gồm thịt băm, mộc nhĩ xào hành phi thơm lừng,
+                                                    cùng nước mắm chua ngọt đặc trưng. Khi ăn, thực khách có thể thêm
+                                                    chút rau thơm và ớt tươi để tăng hương vị. <br />Bánh đúc ngọt Hải
+                                                    Phòng, thường được làm từ bột gạo pha với nước cốt dừa, có vị ngọt
+                                                    dịu, thơm béo. Bánh thường được ăn kèm với mật mía hoặc đường thốt
+                                                    nốt thắng sánh, tạo nên một món ăn nhẹ nhàng nhưng không kém phần
+                                                    hấp dẫn.
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="d-flex gap-4">
+                                            <div class="cuisine-img">
+                                                <img src="./assets/images/cuisine/lam-nem-cua-be.jpg" alt="" />
+                                            </div>
+                                            <div class="cuisine-content">
+                                                <div class="cuisine-content__header">Nem của bể Hải Phòng</div>
+                                                <div class="cuisine-content__content">
+                                                    Nem cua bể Hải Phòng là một món ăn đặc sản nổi tiếng của thành phố
+                                                    cảng, chinh phục thực khách bởi hương vị thơm ngon và cách chế biến
+                                                    tỉ mỉ, công phu. Điểm đặc trưng của nem cua bể Hải Phòng là sự hòa
+                                                    quyện giữa hải sản tươi ngon và các nguyên liệu truyền thống, tạo
+                                                    nên món ăn đậm đà, hấp dẫn.<br />Phần nhân nem được làm từ thịt cua
+                                                    bể tươi chắc thịt, kết hợp với tôm, thịt heo xay, mộc nhĩ, nấm
+                                                    hương, cà rốt và giá đỗ. Các nguyên liệu được trộn đều với gia vị và
+                                                    gói
+                                                    trong lớp bánh đa nem mỏng, đặc biệt là bánh đa Hải Phòng, có độ dai
+                                                    và giòn lý tưởng. Nem cua bể thường được gói thành hình vuông, một
+                                                    điểm khác biệt so với cách gói truyền thống. <br />Khi chiên, nem
+                                                    được rán ngập dầu ở nhiệt độ vừa phải để đảm bảo vỏ ngoài vàng ruộm,
+                                                    giòn rụm, trong khi nhân bên trong vẫn giữ được độ ngọt tự nhiên và
+                                                    thơm phức. Nem cua bể Hải Phòng thường được ăn kèm với bún, rau sống
+                                                    tươi ngon và nước mắm chua ngọt pha chế tinh tế.
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
+                            <div class="swiper-button swiper-button-next"></div>
+                            <div class="swiper-button swiper-button-prev"></div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <section class="feetback">
+        <section class="feetback" id="feetback">
             <div class="feetback-wrapper">
                 <div class="container">
-                    <!-- Form liên hệ -->
                     <div class="feedback-card card">
                         <div class="card-header">
                             <h5 class="card-title">Đóng góp</h5>
@@ -507,7 +607,15 @@
     <!-- General JS -->
     <script type="text/javascript" src="./assets/js/general.js"></script>
     <!-- Demo Swiper -->
-    <script></script>
+    <script type="text/javascript" src="./assets/js/Library/swiper-bundle.min.js"></script>
+    <script>
+    var swiper = new Swiper(".mySwiper", {
+        navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+        },
+    });
+    </script>
 </body>
 
 </html>
