@@ -15,8 +15,6 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
     <!-- Bootstrap Css -->
     <link rel="stylesheet" type="text/css" href="./assets/css/Library/bootstrap.min.css" />
-    <!-- Fancybox Css -->
-    <link rel="stylesheet" type="text/css" href="./assets/css/Library/jquery.fancybox.min.css" />
     <!-- Font family -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -36,11 +34,6 @@
                 <a class="navbar-brand" href="#">
                     <img src="./assets/images/icon/logo.png" alt="" />
                 </a>
-                <!-- Nút toggle cho di động -->
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
                 <!-- Menu chính -->
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
